@@ -115,7 +115,7 @@ const API_SITES = {
         name: '量子资源站'
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
         name: 'jkun资源',
         adult: true
     },
