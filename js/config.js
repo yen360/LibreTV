@@ -110,6 +110,14 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    ukuapi: {
+        api: 'https://api.ukuapi88.com/api.php/provide/vod/',
+        name: 'U酷资源'
+    },
+    kuaichezy: {
+        api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
+        name: '快车资源'
+    },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
