@@ -119,6 +119,11 @@ const API_SITES = {
         name: 'jkun资源',
         adult: true
     },
+    souav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod/',
+        name: 'souav资源',
+        adult: true
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
