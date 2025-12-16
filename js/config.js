@@ -52,6 +52,10 @@ const API_SITES = {
         api: 'http://haiwaikan.com/api.php/provide/vod',
         name: '海外看资源',
     },
+    tangrenjie: {
+        api: 'https://www.trjvod.com/api.php/provide/vod',
+        name: '唐人街',
+    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
