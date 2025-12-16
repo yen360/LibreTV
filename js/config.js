@@ -48,6 +48,10 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
+    haiwaikan: {
+        api: 'http://haiwaikan.com/api.php/provide/vod',
+        name: '海外看资源',
+    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
